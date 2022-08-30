@@ -1,0 +1,41 @@
+header{
+    background-color: #BBBBBB;
+    padding: 20px 0;
+}
+.cajaHeader{
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+header div p{
+    width: 25%
+}
+h1{
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+}
+main{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    padding: 20px 0;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+footer{
+    background-color: #BBBBBB;
+    padding: 20px 0;
+    text-align: center;
+}
